@@ -1,0 +1,3 @@
+[submodule "codingtest"]
+	path = codingtest
+	url = https://github.com/songyi00/aoi-region-matcher.git
